@@ -25,7 +25,7 @@ Note:
 - [CircleCI](https://circleci.com/)
 
 ### Rails
-- Use [Rubocop](https://github.com/rubocop-hq/rubocop) to unify the common rule accrossing a project
+- Use [Rubocop](https://github.com/airbnb/ruby/tree/master/rubocop-airbnb) to unify the common rule accrossing a project
 - Get updates from [GoRails](https://gorails.com)
 - Use less gems as possible. Check [recommended gems](https://gorails.com/tool_categories)
 - Be consistent with a [Ruby style](https://github.com/airbnb/ruby)
