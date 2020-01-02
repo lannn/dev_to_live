@@ -7,7 +7,7 @@ Use Ruby on Rails as main web framework
 ### Version Control Flow
 - Checkout a new local branch for a JIRA/Other issue: feature/[JIRA PROJECT KEY]-[JIRA ISSUE NUMBER]-add-product, fix/[JIRA PROJECT KEY]-[JIRA ISSUE NUMBER]-fix-product-duplication
 - Push local branch to Github and create a pullrequest
-- Pass integration test then deploy to staging and do manual test
+- Pass regrestion test then deploy to staging and do the manual test
 - Invite code review
 - Merge to master then deploy to staging and test manually again
 - Finally deploy to production
