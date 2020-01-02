@@ -5,8 +5,7 @@ If you have any suggestion, please create a issue or pullrequest to help me to i
 # Development
 Use Ruby on Rails as main web framework
 ### Version Control Flow
-- Create an issue on Github
-- Checkout a new local branch for above issue
+- Checkout a new local branch for a JIRA/Other issue: feature/JIRA-1-add-product
 - Push local branch to Github and create a pullrequest
 - Pass integration test then deploy to staging and do manual test
 - Invite code review
