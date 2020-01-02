@@ -42,8 +42,6 @@ Note:
 
 # Production
 ### Deployment
-- [AWS Elastic BeanStalk](https://medium.com/@jameshamann/deploying-rails-5-app-using-elastic-beanstalk-and-postgresql-8ca19bc7648a)
-- Provision: [AWS CloudFormation](https://aws.amazon.com/cloudformation/)
 - [Heroku](https://www.heroku.com/) for easy to deploy but more expensive
 
 ### Monitoring
