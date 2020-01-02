@@ -43,6 +43,8 @@ Note:
 # Production
 ### Deployment
 - [Heroku](https://www.heroku.com/) for easy to deploy but more expensive
+- EngineYard
+- VPS
 
 ### Monitoring
 - Error Tracking: [HoneyBadger](https://www.honeybadger.io/)
