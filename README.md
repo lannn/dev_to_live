@@ -44,7 +44,7 @@ Note:
 ### Deployment
 - [Heroku](https://www.heroku.com/) for easy to deploy but more expensive
 - EngineYard
-- VPS
+- VPS like Linode, Digital Ocean
 
 ### Monitoring
 - Error Tracking: [HoneyBadger](https://www.honeybadger.io/)
